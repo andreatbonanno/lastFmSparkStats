@@ -1,0 +1,6 @@
+*.DS_Store
+project/
+.idea/
+target/
+spark-warehouse/
+src/main/resources/lastfm.tsv
